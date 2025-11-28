@@ -1,0 +1,9 @@
+*.csv
+*.zip
+*.parquet
+*.feather
+*.xlsx
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
