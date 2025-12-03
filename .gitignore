@@ -1,1 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+*.env
+*.log
+*.tmp
+*.temp
+*.egg-info/
+build/
+dist/
 *.csv
