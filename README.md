@@ -151,7 +151,7 @@ https://drive.google.com/drive/u/0/folders/1c1PR_rxQpwD0uSyXFV0c8Xv6pA-ustQU
 
 ---
 
-# 📚 Referências
+# 📚 Referências para a realização deste projeto
 
 - 2015 Flight Delays and Cancellations (Kaggle). https://www.kaggle.com/datasets/usdot/flight-delays
 - Bureau of Transportation Statistics (BTS). https://www.transtats.bts.gov  
